@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tobihige
-- 🌱 I’m currently learning swift.
+- 🌱 I’m currently learning swift and very excited to make a lot of repositories here.
+- 
 
 <!---
 tobihige/tobihige is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
